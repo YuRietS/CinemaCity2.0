@@ -1,3 +1,4 @@
+/* FONTS */
 @font-face {
     font-family: 'Bungee';
     src: url('/fonts/Bungee-Regular.woff2') format('woff2');
@@ -19,4 +20,104 @@
     font-style: normal;
     font-display: swap;
 }
+/* 1. RESET / BASE | скидання / базові стилі */
 
+/* 2. GLOBAL STYLES | глобальні стилі */
+
+/* 3. REUSABLE / COMMON | повторно використовувані / спільні */
+
+/* 4. HEADER | хедер */
+
+/* header layout | розкладка хедера */
+
+/* logo | логотип */
+
+/* header navigation | навігація хедера */
+
+/* header button / login link | кнопка хедера / посилання входу */
+
+/* 5. HERO | герой-блок */
+
+/* hero section | секція hero */
+
+/* hero content | вміст hero */
+
+/* hero actions | дії hero */
+
+/* 6. NOW SHOWING | зараз у прокаті */
+
+/* section | секція */
+
+/* section text | текст секції */
+
+/* top link | верхнє посилання */
+
+/* cards layout | розкладка карток */
+
+/* main card | головна картка */
+
+/* regular cards | звичайні картки */
+
+/* 7. COMING SOON | скоро в прокаті */
+
+/* section | секція */
+
+/* section text | текст секції */
+
+/* cards layout | розкладка карток */
+
+/* card | картка */
+
+/* 8. PROMO BANNER | промо-банер */
+
+/* promo section | секція промо */
+
+/* promo content | вміст промо */
+
+/* promo link | посилання промо */
+
+/* 9. IMAX | IMAX */
+
+/* imax section | секція IMAX */
+
+/* imax content | вміст IMAX */
+
+/* imax link | посилання IMAX */
+
+/* 10. ABOUT PREVIEW | прев’ю про нас */
+
+/* about section | секція про нас */
+
+/* about content | вміст про нас */
+
+/* about link | посилання про нас */
+
+/* 11. SPONSORS | спонсори */
+
+/* sponsors section | секція спонсорів */
+
+/* sponsors list | список спонсорів */
+
+/* sponsors item | елемент спонсора */
+
+/* sponsors link | посилання спонсора */
+
+/* 12. FOOTER | футер */
+
+/* footer layout | розкладка футера */
+
+/* footer logo | логотип футера */
+
+/* footer navigation | навігація футера */
+
+/* footer socials | соцмережі футера */
+
+/* footer copyright | авторські права футера */
+
+/* 13. STATES / HELPERS | стани / допоміжні */
+
+/* hover / focus states | стани hover / focus */
+
+/* helper classes | допоміжні класи */
+
+/* visually hidden | візуально прихований */
