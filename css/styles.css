@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Bungee';
+    src: url('/fonts/Bungee-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('/fonts/Merriweather-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SairaStencil';
+    src: url('/fonts/SairaStencil-Thin.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
